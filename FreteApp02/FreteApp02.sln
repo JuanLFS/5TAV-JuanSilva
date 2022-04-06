@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreteApp02", "FreteApp02\FreteApp02.csproj", "{FDD2DEAE-8856-4F26-9B3F-653EFDAB1884}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFrete1", "TestFrete1\TestFrete1.csproj", "{084BFB4F-2872-422F-82AE-F8BE5860934D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDD2DEAE-8856-4F26-9B3F-653EFDAB1884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD2DEAE-8856-4F26-9B3F-653EFDAB1884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD2DEAE-8856-4F26-9B3F-653EFDAB1884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD2DEAE-8856-4F26-9B3F-653EFDAB1884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{084BFB4F-2872-422F-82AE-F8BE5860934D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{084BFB4F-2872-422F-82AE-F8BE5860934D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{084BFB4F-2872-422F-82AE-F8BE5860934D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{084BFB4F-2872-422F-82AE-F8BE5860934D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F029F36-1BFA-49FE-AC62-A54811BAD1BD}
+	EndGlobalSection
+EndGlobal

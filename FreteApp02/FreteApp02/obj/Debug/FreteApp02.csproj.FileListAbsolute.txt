@@ -1,0 +1,7 @@
+C:\Users\aneves\source\repos\FreteApp02\FreteApp02\obj\Debug\FreteApp02.csproj.AssemblyReference.cache
+C:\Users\aneves\source\repos\FreteApp02\FreteApp02\obj\Debug\FreteApp02.csproj.CoreCompileInputs.cache
+C:\Users\aneves\source\repos\FreteApp02\FreteApp02\bin\Debug\FreteApp02.exe.config
+C:\Users\aneves\source\repos\FreteApp02\FreteApp02\bin\Debug\FreteApp02.exe
+C:\Users\aneves\source\repos\FreteApp02\FreteApp02\bin\Debug\FreteApp02.pdb
+C:\Users\aneves\source\repos\FreteApp02\FreteApp02\obj\Debug\FreteApp02.exe
+C:\Users\aneves\source\repos\FreteApp02\FreteApp02\obj\Debug\FreteApp02.pdb
