@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aneves\\source\\repos\\AppEscola01\\AppEscola01.Teste\\AppEscola01.Teste.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aneves\\source\\repos\\AppEscola01\\AppEscola01.Application\\AppEscola01.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aneves\\source\\repos\\AppEscola01\\AppEscola01.Application\\AppEscola01.Application.csproj",
+        "projectName": "AppEscola01.Application",
+        "projectPath": "C:\\Users\\aneves\\source\\repos\\AppEscola01\\AppEscola01.Application\\AppEscola01.Application.csproj",
+        "packagesPath": "C:\\Users\\aneves\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aneves\\source\\repos\\AppEscola01\\AppEscola01.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aneves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\aneves\\source\\repos\\AppEscola01\\AppEscola01.Domain\\AppEscola01.Domain.csproj": {
+                "projectPath": "C:\\Users\\aneves\\source\\repos\\AppEscola01\\AppEscola01.Domain\\AppEscola01.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aneves\\source\\repos\\AppEscola01\\AppEscola01.Domain\\AppEscola01.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aneves\\source\\repos\\AppEscola01\\AppEscola01.Domain\\AppEscola01.Domain.csproj",
+        "projectName": "AppEscola01.Domain",
+        "projectPath": "C:\\Users\\aneves\\source\\repos\\AppEscola01\\AppEscola01.Domain\\AppEscola01.Domain.csproj",
+        "packagesPath": "C:\\Users\\aneves\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aneves\\source\\repos\\AppEscola01\\AppEscola01.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aneves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aneves\\source\\repos\\AppEscola01\\AppEscola01.Teste\\AppEscola01.Teste.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aneves\\source\\repos\\AppEscola01\\AppEscola01.Teste\\AppEscola01.Teste.csproj",
+        "projectName": "AppEscola01.Teste",
+        "projectPath": "C:\\Users\\aneves\\source\\repos\\AppEscola01\\AppEscola01.Teste\\AppEscola01.Teste.csproj",
+        "packagesPath": "C:\\Users\\aneves\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aneves\\source\\repos\\AppEscola01\\AppEscola01.Teste\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aneves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\aneves\\source\\repos\\AppEscola01\\AppEscola01.Application\\AppEscola01.Application.csproj": {
+                "projectPath": "C:\\Users\\aneves\\source\\repos\\AppEscola01\\AppEscola01.Application\\AppEscola01.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

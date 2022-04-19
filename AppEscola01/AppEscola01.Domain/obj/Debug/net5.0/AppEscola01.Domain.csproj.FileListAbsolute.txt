@@ -1,0 +1,12 @@
+C:\Users\aneves\source\repos\AppEscola01\AppEscola01.Domain\bin\Debug\net5.0\AppEscola01.Domain.deps.json
+C:\Users\aneves\source\repos\AppEscola01\AppEscola01.Domain\bin\Debug\net5.0\AppEscola01.Domain.dll
+C:\Users\aneves\source\repos\AppEscola01\AppEscola01.Domain\bin\Debug\net5.0\ref\AppEscola01.Domain.dll
+C:\Users\aneves\source\repos\AppEscola01\AppEscola01.Domain\bin\Debug\net5.0\AppEscola01.Domain.pdb
+C:\Users\aneves\source\repos\AppEscola01\AppEscola01.Domain\obj\Debug\net5.0\AppEscola01.Domain.csproj.AssemblyReference.cache
+C:\Users\aneves\source\repos\AppEscola01\AppEscola01.Domain\obj\Debug\net5.0\AppEscola01.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aneves\source\repos\AppEscola01\AppEscola01.Domain\obj\Debug\net5.0\AppEscola01.Domain.AssemblyInfoInputs.cache
+C:\Users\aneves\source\repos\AppEscola01\AppEscola01.Domain\obj\Debug\net5.0\AppEscola01.Domain.AssemblyInfo.cs
+C:\Users\aneves\source\repos\AppEscola01\AppEscola01.Domain\obj\Debug\net5.0\AppEscola01.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aneves\source\repos\AppEscola01\AppEscola01.Domain\obj\Debug\net5.0\AppEscola01.Domain.dll
+C:\Users\aneves\source\repos\AppEscola01\AppEscola01.Domain\obj\Debug\net5.0\ref\AppEscola01.Domain.dll
+C:\Users\aneves\source\repos\AppEscola01\AppEscola01.Domain\obj\Debug\net5.0\AppEscola01.Domain.pdb
