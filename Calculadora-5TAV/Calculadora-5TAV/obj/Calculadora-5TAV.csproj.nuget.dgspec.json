@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\juanl\\source\\repos\\Calculadora-5TAV\\Calculadora-5TAV\\Calculadora-5TAV.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\juanl\\source\\repos\\Calculadora-5TAV\\Calculadora-5TAV\\Calculadora-5TAV.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juanl\\source\\repos\\Calculadora-5TAV\\Calculadora-5TAV\\Calculadora-5TAV.csproj",
+        "projectName": "Calculadora-5TAV",
+        "projectPath": "C:\\Users\\juanl\\source\\repos\\Calculadora-5TAV\\Calculadora-5TAV\\Calculadora-5TAV.csproj",
+        "packagesPath": "C:\\Users\\juanl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juanl\\source\\repos\\Calculadora-5TAV\\Calculadora-5TAV\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juanl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.17.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
