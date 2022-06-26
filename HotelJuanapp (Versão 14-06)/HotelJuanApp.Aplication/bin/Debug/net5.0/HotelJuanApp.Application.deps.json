@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HotelJuanApp.Application/1.0.0": {
+        "dependencies": {
+          "HotelJuanApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "HotelJuanApp.Application.dll": {}
+        }
+      },
+      "HotelJuanApp.Domain/1.0.0": {
+        "runtime": {
+          "HotelJuanApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HotelJuanApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HotelJuanApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
