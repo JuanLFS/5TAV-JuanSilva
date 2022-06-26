@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\HotelJuanapp\\HotelJuanApp.Aplication\\HotelJuanApp.Application.csproj": {}
+  },
+  "projects": {
+    "G:\\HotelJuanapp\\HotelJuanApp.Aplication\\HotelJuanApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\HotelJuanapp\\HotelJuanApp.Aplication\\HotelJuanApp.Application.csproj",
+        "projectName": "HotelJuanApp.Application",
+        "projectPath": "G:\\HotelJuanapp\\HotelJuanApp.Aplication\\HotelJuanApp.Application.csproj",
+        "packagesPath": "C:\\Users\\juanl\\.nuget\\packages\\",
+        "outputPath": "G:\\HotelJuanapp\\HotelJuanApp.Aplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juanl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "G:\\HotelJuanapp\\HotelJuanApp.Domain\\HotelJuanApp.Domain.csproj": {
+                "projectPath": "G:\\HotelJuanapp\\HotelJuanApp.Domain\\HotelJuanApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\HotelJuanapp\\HotelJuanApp.Domain\\HotelJuanApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\HotelJuanapp\\HotelJuanApp.Domain\\HotelJuanApp.Domain.csproj",
+        "projectName": "HotelJuanApp.Domain",
+        "projectPath": "G:\\HotelJuanapp\\HotelJuanApp.Domain\\HotelJuanApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\juanl\\.nuget\\packages\\",
+        "outputPath": "G:\\HotelJuanapp\\HotelJuanApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juanl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

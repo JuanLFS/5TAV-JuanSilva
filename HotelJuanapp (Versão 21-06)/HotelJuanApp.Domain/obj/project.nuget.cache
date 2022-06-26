@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "ralgU3qCRqT9fp2c/vJiKZE62dC+SHguaqRFqeE1oqPqv+I0dJnCrbGnBd01+k6CsnV9LlFr9KoRM7eNCmF6hA==",
+  "success": true,
+  "projectFilePath": "G:\\HotelJuanapp\\HotelJuanApp.Domain\\HotelJuanApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juanl\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\juanl\\.nuget\\packages\\castle.core\\5.0.0\\castle.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\juanl\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\juanl\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\juanl\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\juanl\\.nuget\\packages\\moq\\4.18.1\\moq.4.18.1.nupkg.sha512",
+    "C:\\Users\\juanl\\.nuget\\packages\\system.diagnostics.eventlog\\4.7.0\\system.diagnostics.eventlog.4.7.0.nupkg.sha512",
+    "C:\\Users\\juanl\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\juanl\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\juanl\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
